@@ -66,10 +66,14 @@ Includes:
 - Ablation visualisations
 
 ## Reference
-@inproceedings{mintood2024,
-title={MIntOOD: Multimodal Intent Detection with Out-of-Scope Detection},
-author={Zhang et al.},
-booktitle={IEEE TMM},
-year={2025}
-}
+
 Based on [thuiar/MIntOOD](https://github.com/thuiar/MIntOOD)
+
+```bibtex
+@inproceedings{mintood2024,
+  title={MIntOOD: Multimodal Intent Detection with Out-of-Scope Detection},
+  author={Zhang et al.},
+  booktitle={IEEE TMM},
+  year={2025}
+}
+```
