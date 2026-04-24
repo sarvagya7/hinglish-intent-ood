@@ -42,6 +42,8 @@ detection system applied to Hinglish entertainment media.
 | Text only (MuRIL) | 23.7% | 51.9% |
 | Text + Audio (MuRIL + WavLM) | 28.9% | 56.6% |
 
+![Results](results/results_visualization.png)
+
 Adding audio modality improves OOD AUROC by **+4.7%** over text-alone, 
 which performs near-randomly (51.9% ≈ 50% baseline). Both accuracy and 
 AUROC improve with multimodal fusion, confirming that non-verbal cues 
