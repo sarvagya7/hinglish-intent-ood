@@ -1,3 +1,15 @@
+# Ignore data and large feature arrays
+data/Scenes/
+*.npy
+
+# Ignore PyTorch model weights
+*.pt
+*.pth
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
